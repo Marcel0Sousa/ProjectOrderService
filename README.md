@@ -1,2 +1,2 @@
-# prjOS | Java-Desktop
-Projeto em desenvolvimento para gerencia de Ordem de Serviço
+* prjOS | Java-Desktop
+- Projeto em desenvolvimento para gerenciamento de Ordem de Serviço
